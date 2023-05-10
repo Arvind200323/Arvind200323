@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">An Aspiring Game Dev</h3>
 
+- 🔭 I’m currently working on **a 2D prototype in Unity**
+
+- 🌱 I’m currently learning **C++ and Raylib Framework**
+
+- 💬 Ask me about **GameDev,Computer Hardware**
+
 - 📫 How to reach me **arvindsekar@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
