@@ -4,11 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07B2F7&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on **a 2D prototype in Unity**
-
 - 🌱 I’m currently learning **C++ and Raylib Framework**
-
 - 💬 Ask me about **GameDev,Computer Hardware**
-
 - 📫 How to reach me **arvindsekar@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
