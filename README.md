@@ -9,6 +9,15 @@
 
 - 📫 How to reach me **arvindsekar@protonmail.com**
 
+- **</>** Languages and Tools 
+- C, C++, C#
+- Python
+- Java
+- Unity
+- Unreal Engine 4
+- Figma
+- Premiere Pro
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/p arvind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p arvind" height="30" width="40" /></a>
