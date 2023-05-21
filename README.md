@@ -22,6 +22,7 @@
 - Java
 - Unity
 - Unreal Engine 4
+- Blender
 - Figma
 - Premiere Pro
 
