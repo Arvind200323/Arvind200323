@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arvindsekar@protonmail.com**
 
-- **</>** Languages and Tools 
+<h3 align="left">Languages and Tools:</h3>
 - C, C++, C#
 - Python
 - Java
