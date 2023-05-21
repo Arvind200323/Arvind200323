@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 
 - **LinkedIn :** https://www.linkedin.com/in/p-arvind-20a03a249/
+- **Instagram :** https://www.linkedin.com/in/p-arvind-20a03a249/
+- **CodeChef :** (https://www.codechef.com/users/arvindsekar)
 
 <h3 align="left">Languages and Tools:</h3>
 
