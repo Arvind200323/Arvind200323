@@ -3,8 +3,8 @@
 <h3 align="center">An Aspiring Game Dev</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07B2F7&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
-- 🔭 I’m currently working on **a 2D prototype in Unity**
-- 🌱 I’m currently learning **Intermediate C++**
+- 🔭 I’m currently working on **Nothing**
+- 🌱 I’m currently learning **Data Analytics**
 - 💬 Ask me about **GameDev,Computer Hardware**
 - 📫 How to reach me **arvindsekar@protonmail.com**
 
