@@ -19,10 +19,8 @@
 - C, C++, C#
 - Python
 - Java
-- Unity
-- Unreal Engine 4
+- Unity, Unreal Engine 4
 - Blender
-- Figma
 - Premiere Pro
 - Linux
 
