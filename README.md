@@ -17,10 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - C, C++, C#
-- Python
 - Java
-- Unity, Unreal Engine 4
-- Blender
+- Unity, UE4
+- Figma
 - Premiere Pro
 - Linux
 
