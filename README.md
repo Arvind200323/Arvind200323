@@ -18,7 +18,7 @@
 
 - C, C++, C#
 - Java
-- Unity, UE4
+- Unity
 - Figma
 - Premiere Pro
 - Linux
