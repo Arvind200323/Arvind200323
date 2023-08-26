@@ -23,6 +23,7 @@
 - Premiere Pro
 - Linux
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind200323&show_icons=true&locale=en&layout=compact" alt="arvind" /></p>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
