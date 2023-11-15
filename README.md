@@ -16,8 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- C, C++, C#
-- Java
+- C, C++
+- HTML, CSS, JavaScript
 - Unity
 - Figma
 - Premiere Pro
