@@ -23,6 +23,8 @@
 - Premiere Pro
 - Linux
 
+<a href="https://arvind200323.github.io/Resume/">Resume</a>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind200323&show_icons=true&locale=en&layout=compact" alt="arvind" /></p>
 
 <!-- <h3 align="left">Connect with me:</h3>
