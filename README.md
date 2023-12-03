@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Arvind</h1>
 <h3 align="center">An Aspiring Game Dev</h3>
-<a href="https://arvind200323.github.io/Resume/">Resume</a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07B2F7&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <!-- - 🔭 I’m currently working on **** -->
@@ -14,6 +14,7 @@
 - **LinkedIn :**  https://www.linkedin.com/in/p-arvind-20a03a249/
 - **CodeChef :**  https://www.codechef.com/users/arvindsekar
 - **LeetCode :** https://leetcode.com/arvindsekar200323/
+- <a href="https://arvind200323.github.io/Resume/">View my Resume</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
