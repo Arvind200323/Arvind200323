@@ -11,10 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- **LinkedIn :**  https://www.linkedin.com/in/p-arvind-20a03a249/
-- **CodeChef :**  https://www.codechef.com/users/arvindsekar
-- **LeetCode :** https://leetcode.com/arvindsekar200323/
-- <a href="https://arvind200323.github.io/Resume/">View my Resume</a>
+- <a href="https://arvind200323.github.io/Resume/">**Resume**</a>
+- <a href="https://www.linkedin.com/in/p-arvind-20a03a249">Linkedin</a>
+- <a href="https://www.codechef.com/users/arvindsekar">CodeChef</a>
+- <a href="https://leetcode.com/arvindsekar200323/">Leetcode</a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
