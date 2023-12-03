@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- <a href="https://arvind200323.github.io/Resume/">**Resume**</a>
+- <a href="https://arvind200323.github.io/Resume/">**Resume & CV**</a>
 - <a href="https://www.linkedin.com/in/p-arvind-20a03a249">Linkedin</a>
 - <a href="https://www.codechef.com/users/arvindsekar">CodeChef</a>
 - <a href="https://leetcode.com/arvindsekar200323/">Leetcode</a>
