@@ -1,13 +1,17 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Arvind200323&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="Arvind200323" /> </p>
-<h1 align="center">Hi, I'm Arvind</h1>
+<h1 align="center">Hi, I'm Arvind</h1> 
 <h3 align="center">An Aspiring Game Dev</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07B2F7&width=435&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+
+
 <!-- - 🔭 I’m currently working on **** -->
 - 🌱 I’m currently learning **Web Dev**
 - 💬 Ask me about **GameDev,Computer Hardware**
 - 📫 How to reach me **arvindsekar@protonmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 
