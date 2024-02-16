@@ -24,6 +24,7 @@
   <li>Python</li>
   <li>Java</li>
   <li>HTML, CSS, JavaScript</li>
+  <li>ReactJS, ExpressJS, NodeJS</li>
   <li>MySQL, MongoDB</li>
   <li>Unity</li>
   <li>Linux</li>
