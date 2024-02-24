@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Arvind</h1> 
 <h3 align="center">Game Dev and Fullstack Web Developer</h3>
 
-
 <h3 align="left">Connect with me:</h3>
 
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arvindsekar@protonmail.com)
@@ -10,6 +9,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://arvind200323.github.io/Resume/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/arvindsekar200323/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/arvindsekar/)
+
+<h3 align="left">Tech Stacks:</h3>
+
+![Web Dev](https://img.shields.io/badge/Web%20Dev-MERN%20Stack-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2C3E50&color=4CAF50)
+![Game Dev](https://img.shields.io/badge/Game%20Dev-Unity%20%7C%20C%23-orange?style=for-the-badge&logo=unity&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 
