@@ -40,3 +40,16 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<h3 align="left">Workstation Specs:</h3>
+
+![Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i5%2010400F-blue?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-NVIDIA%20GTX%201660%20Super-green?style=for-the-badge&logo=nvidia&logoColor=white)
+![Motherboard](https://img.shields.io/badge/Motherboard-ASUS%20Prime%20H410%20M-black?style=for-the-badge&logo=asus&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-Corsair%2016GB%20DDR4-blue?style=for-the-badge&logo=corsair&logoColor=white)
+![SSD](https://img.shields.io/badge/SSD-WD%20500GB%20Nvme-lightgrey?style=for-the-badge&logo=western-digital&logoColor=white)
+![HDD](https://img.shields.io/badge/HDD-Seagate%201TB-blue?style=for-the-badge&logo=seagate&logoColor=white)
+![PSU](https://img.shields.io/badge/PSU-Corsair%20CV550-grey?style=for-the-badge&logo=corsair&logoColor=white)
+![Cabinet](https://img.shields.io/badge/Cabinet-Corsair%20110R-black?style=for-the-badge&logo=corsair&logoColor=white)
+![Monitor](https://img.shields.io/badge/Monitor-LG%2024inch-black?style=for-the-badge&logo=lg&logoColor=white)
+
+
