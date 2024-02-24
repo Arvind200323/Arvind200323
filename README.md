@@ -42,6 +42,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<!--
 <h3 align="left">Workstation Specs:</h3>
 
 ![Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i5%2010400F-blue?style=for-the-badge&logo=intel&logoColor=white)
