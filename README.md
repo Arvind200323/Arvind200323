@@ -31,10 +31,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 <h3 align="left">Operating Systems:</h3>
 
@@ -42,16 +42,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<h3 align="left">Workstation Specs:</h3>
-
-![Processor](https://img.shields.io/badge/Processor-Intel%20Core%20i5%2010400F-blue?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-NVIDIA%20GTX%201660%20Super-green?style=for-the-badge&logo=nvidia&logoColor=white)
-![Motherboard](https://img.shields.io/badge/Motherboard-ASUS%20Prime%20H410%20M-black?style=for-the-badge&logo=asus&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-Corsair%2016GB%20DDR4-blue?style=for-the-badge&logo=corsair&logoColor=white)
-![SSD](https://img.shields.io/badge/SSD-WD%20500GB%20Nvme-lightgrey?style=for-the-badge&logo=western-digital&logoColor=white)
-![HDD](https://img.shields.io/badge/HDD-Seagate%201TB-blue?style=for-the-badge&logo=seagate&logoColor=white)
-![PSU](https://img.shields.io/badge/PSU-Corsair%20CV550-grey?style=for-the-badge&logo=corsair&logoColor=white)
-![Cabinet](https://img.shields.io/badge/Cabinet-Corsair%20110R-black?style=for-the-badge&logo=corsair&logoColor=white)
-![Monitor](https://img.shields.io/badge/Monitor-LG%2024inch-black?style=for-the-badge&logo=lg&logoColor=white)
 
 
