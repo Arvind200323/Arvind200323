@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Arvind</h1> 
-<h3 align="center">your Average tech Enjoyer</h3>
+<!--<h1 align="center">Hi, I'm Arvind</h1> 
+<h3 align="center">your Average tech Enjoyer</h3>-->
 
 <h3 align="left">Connect with me:</h3>
 
